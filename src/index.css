@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+
+@layer utilities {
+  .font-pacifico {
+    font-family: 'Pacifico', cursive;
+  }
+  .font-poppins {
+    font-family: 'Poppins', sans-serif;
+  }
+}
